@@ -17,3 +17,17 @@ Largest County Turnout: Denver
 ### Election Audit Summary
 The Code can be used in future Colorado elections. It will work for any number of counties. If the word counties is replaced in the code it will work for comparing any municipalities in an election. 
 
+    # 7: Print the county with the largest turnout to the terminal.
+    winning_county_summary = (
+        f"-------------------------\n"
+        f"Largest County Turnout: {winning_county}\n"
+        f"-------------------------\n")
+
+    election_results = (
+        f"\nElection Results\n"
+        f"-------------------------\n"
+        f"Total Votes: {total_votes:,}\n"
+        f"-------------------------\n\n"
+        f"County Votes:\n")
+
+The word county in the following instances of code would need to be replaced the municipality that is being measured.
