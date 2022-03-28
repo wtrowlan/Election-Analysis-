@@ -30,4 +30,4 @@ The Code can be used in future Colorado elections. It will work for any number o
         f"-------------------------\n\n"
         f"County Votes:\n")
 
-The word county in the following instances of code would need to be replaced the municipality that is being measured.
+The word county in the following instances of code would need to be replaced with the new municipality that is being measured.
